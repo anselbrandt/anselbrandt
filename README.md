@@ -7,3 +7,4 @@
 [<img align="left" alt="Docker" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com)
 [<img align="left" alt="PostgreSQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
 [<img align="left" alt="Deck.gl" width="75px" src="https://deck.gl/images/icon-layers.svg" />](https://deck.gl)
+[<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
