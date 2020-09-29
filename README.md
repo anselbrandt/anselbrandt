@@ -8,3 +8,4 @@
 [<img align="left" alt="PostgreSQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
 [<img align="left" alt="Deck.gl" width="75px" src="https://deck.gl/images/icon-layers.svg" />](https://deck.gl)
 [<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
+[<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
