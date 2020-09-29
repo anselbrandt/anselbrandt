@@ -9,3 +9,4 @@
 [<img align="left" alt="Deck.gl" width="75px" src="https://deck.gl/images/icon-layers.svg" />](https://deck.gl)
 [<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
+[<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
