@@ -6,3 +6,4 @@
 [<img align="left" alt="D3.js" width="75px" src="https://camo.githubusercontent.com/722a5cc12c7d40231ebeb8ca6facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667" />](https://d3js.org)
 [<img align="left" alt="Docker" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com)
 [<img align="left" alt="PostgreSQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
+[<img align="left" alt="Deck.gl" width="75px" src="https://deck.gl/images/icon-layers.svg" />](https://deck.gl)
