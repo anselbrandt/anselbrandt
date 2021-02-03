@@ -10,5 +10,5 @@
 [<img align="left" alt="Next.js" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />](https://nextjs.org)
 [<img align="left" alt="three.js" width="75px" src="https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg" />](https://threejs.org)
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
-[<img align="left" alt="chakra-ui" width="200px" src="https://github.com/chakra-ui/chakra-ui/blob/master/logo/logo-colored@2x.png" />](https://chakra-ui.com)
+[<img align="left" alt="chakra-ui" width="200px" src="https://github.com/chakra-ui/chakra-ui/blob/main/logo/logomark-colored.svg" />](https://chakra-ui.com)
 [<img align="left" alt="Formik" width="100px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />](https://formik.org)
