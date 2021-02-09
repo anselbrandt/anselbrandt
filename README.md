@@ -13,3 +13,4 @@
 [<img align="left" alt="chakra-ui" width="75px" src="https://github.com/chakra-ui/chakra-ui/blob/main/logo/logomark-colored.svg" />](https://chakra-ui.com)
 [<img align="left" alt="Formik" width="100px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />](https://formik.org)
 [<img align="left" alt="Rust" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://www.rust-lang.org)
+[<img align="left" alt="Raspberry Pi" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://www.raspberrypi.org)
