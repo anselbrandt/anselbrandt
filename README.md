@@ -15,4 +15,5 @@
 [<img align="left" alt="Rust" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://www.rust-lang.org)
 [<img align="left" alt="Raspberry Pi" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://www.raspberrypi.org)
 [<img align="left" alt="Scala" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />](https://www.scala-lang.org)
+[<img align="left" alt="OAuth" width="100px" src="https://www.oauth.com/wp-content/themes/oauthdotcom/images/oauth_logo.png" />](https://www.oauth.com)
 [<img align="left" alt="Kubernetes" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io)
