@@ -18,7 +18,7 @@
 [<img align="left" alt="OAuth" width="90px" src="https://www.oauth.com/wp-content/themes/oauthdotcom/images/oauth_logo.png" />](https://www.oauth.com)
 [<img align="left" alt="Kubernetes" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io)
 [<img align="left" alt="Sqlite" width="100px" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" />](https://www.sqlite.org)
-[<img align="left" alt="tRPC" width="100px" src="https://raw.githubusercontent.com/trpc/trpc/main/www/static/img/logo-text.svg" />](https://trpc.io)
+[<img align="left" alt="tRPC" width="100px" src="https://raw.githubusercontent.com/trpc/trpc/main/www/static/img/logo.svg" />](https://trpc.io)
 [<img align="left" alt="Julia" width="100px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />](https://julialang.org)
 <!---
 [<img align="left" alt="NGINX" width="100px" src="https://www.nginx.com/wp-content/uploads/2021/03/NGINX-product-icon.svg" />](https://www.nginx.com)
