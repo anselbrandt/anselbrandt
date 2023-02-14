@@ -8,7 +8,9 @@
 [<img align="left" alt="PostgreSQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org)
 [<img align="left" alt="Deck.gl" width="75px" src="https://deck.gl/images/icon-layers.svg" />](https://deck.gl)
 [<img align="left" alt="Next.js" width="75px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />](https://nextjs.org)
-[<img align="left" alt="three.js" width="75px" src="[https://discoverthreejs.com/static/images/logo/threejs_logo_black_trans.svg](https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg)" />](https://threejs.org)
+
+[<img align="left" alt="three.js" width="75px" src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" />](https://threejs.org)
+
 [<img align="left" alt="gpu.js" width="75px" src="https://gpu.rocks/static/media/jelly.3587de60.png" />](https://gpu.rocks/)
 [<img align="left" alt="Formik" width="100px" src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" />](https://formik.org)
 [<img align="left" alt="Go" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](https://go.dev)
