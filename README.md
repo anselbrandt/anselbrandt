@@ -1,3 +1,4 @@
+[<img align="left" alt="fastapi" width="75px" src="https://avatars.githubusercontent.com/u/156354296" />](https://fastapi.tiangolo.com/)
 [<img align="left" alt="pytorch" width="75px" src="https://pytorch.org/assets/images/logo-icon.svg" />](https://pytorch.org/)
 [<img align="left" alt="jupyter" width="75px" src="https://jupyter.org/assets/homepage/main-logo.svg" />](https://jupyter.org/)
 [<img align="left" alt="Python" width="75px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />](https://www.python.org/)
