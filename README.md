@@ -1,3 +1,4 @@
+[<img align="left" alt="Python" width="75px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />](https://www.python.org/)
 [<img align="left" alt="Hugging Face" width="75px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/)
 
 
