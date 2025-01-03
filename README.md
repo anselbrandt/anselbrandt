@@ -1,3 +1,6 @@
+[<img align="left" alt="Hugging Face" width="75px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />](https://huggingface.co/)
+
+
 [<img align="left" alt="React" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](http://reactjs.org)
 [<img align="left" alt="Node.js" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/)
 [<img align="left" alt="TypeScipt" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org)
