@@ -1,3 +1,4 @@
+[<img align="left" alt="chromadb" width="75px" src="https://www.trychroma.com/img/chroma.png" />](https://www.trychroma.com/)
 [<img align="left" alt="htmx" width="300px" src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" />](https://htmx.org/)
 [<img align="left" alt="fastapi" width="75px" src="https://avatars.githubusercontent.com/u/156354296" />](https://fastapi.tiangolo.com/)
 [<img align="left" alt="pytorch" width="75px" src="https://pytorch.org/assets/images/logo-icon.svg" />](https://pytorch.org/)
